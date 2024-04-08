@@ -8,5 +8,5 @@ Lost is set in 2040, a catastrophic event in late November 2022 where a new muta
 Load the project in Unreal
 
 
-## Download the build :video_game:
-Please use the following link to download my game (zip game lost)[https://drive.google.com/drive/folders/11IhXmByb7gOGtYINLfvL78Mtw58J7Xsd?usp=drive_link]
+## Download the project:
+Contact me: fetbarcelon@gmail.com
