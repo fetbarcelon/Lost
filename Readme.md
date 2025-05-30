@@ -9,4 +9,4 @@ Load the project in Unreal
 
 
 ## Download the project:
-Contact me: fetbarcelon@gmail.com
+Contact me: stephania.cortes.alzate1@gmail.com
